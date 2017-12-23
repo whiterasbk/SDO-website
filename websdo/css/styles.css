@@ -1,0 +1,112 @@
+
+body {
+  	padding-top: 50px;
+  	height: 1600px;
+  	background-image: url(../images/body_bg.jpg);
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+}
+
+.logo {
+  	width: 50px;
+  	height: 50px;
+  	background-size: 80%;
+  	background-image: url(../images/logo.png);
+  	border-radius: 100px;
+  	background-repeat: no-repeat;
+  	background-position: center center;
+}
+
+.image-item {
+  	max-width: 300px;
+  	max-height: 150px;
+}
+
+.image-item img {
+  	max-height: 70%;
+ 	max-width: 100%;
+  	border-radius: 10px;
+}
+
+.image-item p {
+  	text-align: center;
+  	margin-bottom: 0px;
+}
+
+.main {
+  	max-width: 92%;
+  	margin-top: 10px;
+  	/*background-image: url(../images/content-color.png);*/
+}
+
+.index-show { 
+  	max-height: 300px;
+  	border-radius: 15px;
+}
+
+.show-controller {
+  	border-radius: 15px;
+}
+
+.starter-template {
+  	padding: 40px 15px;
+  	text-align: center;
+}
+
+.yomefiy {
+	margin-top: 30px;
+  	max-width: 50%;
+}
+
+.index-jumbo-img {
+	max-width: 260px;
+	max-height: 240px;
+	border-radius: 10px;
+}
+
+.index-jumbo-text {
+	color: white;
+	text-align: center;
+}
+
+.main-color {
+	background-color: #222222;
+}
+
+.index-item {
+	
+}
+
+.index-style {
+	color: #ffffff;
+	background-color: #222222;
+}
+
+#left_menu {
+  	/*width: 25%;*/
+  	max-width: 100px;
+  	height: 100%;
+  	/*background-color: red; */
+  	color: white;
+  
+  	position: absolute;
+}
+#content_center {
+ 	/* width: 75%;*/
+  	height: 700px;
+  	background-color: White;
+  	color: Black;
+}
+
+#logo-title {
+  	max-width: 200px;
+}
+
+#carousel-example-generic {
+  	max-width: 650px;
+}
+
+
+
+
+
